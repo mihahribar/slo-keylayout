@@ -1,0 +1,21 @@
+h1. Slovenska razporeditev tipk Mac OS X
+
+Slovenska razporeditev tipk za Mac OS X je namenjena vsem ki ste navajeni na Windows razporeditev in vas Applova razporeditev tipk bega.
+
+!http://i.imgur.com/h9848.png!
+
+!http://i.imgur.com/1zjMO.png!
+
+!http://i.imgur.com/JM9c1.png!
+
+h2. Inštalacija
+
+Datoteki @Slovensko (DE&AT).icns@ in @Slovensko (DE&AT).keylayout@ prenesite v @/Library/Keyboard Layouts/@. Nato se odpravite v Settings -> Language & Text, zavihek Input Sources in v seznamu najdite *Slovensko (DE/AT)*. Predno bo nova tipkovnična razporeditev upoštevana naredite še Logout in Login.
+
+h2. Urejanje
+
+Če vam razporeditev ni všeč jo lahko sami uredite s pomočjo aplikacije "Ukelele":http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele.
+
+h2. Izvor
+
+Razporeditev je bila prvotno najdena na "Jabuk.si":http://www.jabuk.si/pbb/viewarticle.php?id=2169 in ima le nekaj malenkostnih sprememb, ki sem jih opravil za lastne potrebe. Zahvale gredo torej ekipi Jabuk.si:http://jabuk.si.
