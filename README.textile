@@ -1,12 +1,12 @@
 h1. Slovenska razporeditev tipk Mac OS X
 
-Slovenska razporeditev tipk za Mac OS X je namenjena vsem ki ste navajeni na Windows razporeditev in vas Applova razporeditev tipk bega.
+Slovenska razporeditev tipk za Mac OS X.
 
 !http://i.imgur.com/h9848.png!
 
 !http://i.imgur.com/1zjMO.png!
 
-!http://i.imgur.com/JM9c1.png!
+!http://i.imgur.com/jQDGv.png!
 
 h2. Inštalacija
 
@@ -18,4 +18,4 @@ h2. Urejanje
 
 h2. Izvor
 
-Razporeditev je bila prvotno najdena na "Jabuk.si":http://www.jabuk.si/pbb/viewarticle.php?id=2169 in ima le nekaj malenkostnih sprememb, ki sem jih opravil za lastne potrebe. Zahvale gredo torej ekipi Jabuk.si:http://jabuk.si.
+Razporeditev je bila prvotno najdena na "Jabuk.si":http://www.jabuk.si/pbb/viewarticle.php?id=2169 in ima le nekaj malenkostnih sprememb, ki sem jih opravil za lastne potrebe. Zahvale gredo torej ekipi "Jabuk.si":http://jabuk.si.
