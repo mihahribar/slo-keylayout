@@ -10,7 +10,11 @@ Slovenska razporeditev tipk za Mac OS X.
 
 h2. Inštalacija
 
-Datoteki @Slovensko (DE&AT).icns@ in @Slovensko (DE&AT).keylayout@ prenesite v @/Library/Keyboard Layouts/@. Nato se odpravite v Settings -> Language & Text, zavihek Input Sources in v seznamu najdite *Slovensko (DE/AT)*. Predno bo nova tipkovnična razporeditev upoštevana naredite še Logout in Login.
+Datoteki @Slovensko (DE&AT).icns@ in @Slovensko (DE&AT).keylayout@ prenesite v @/Library/Keyboard Layouts/@. Nato se odpravite v System Preferences -> Language & Region -> Keyboard Preferences, zavihek Input Sources, pritisnite +, v seznamu Others najdite *Slovensko (DE/AT)* in pritisnite Add.
+
+Za aktiviranje je potrebno v zgornji vrstici (kjer je ura in datum) izbrati iz seznama *Slovensko (DE/AT)*.
+
+!http://i.imgur.com/AjDxiqC.png!
 
 h2. Urejanje
 
